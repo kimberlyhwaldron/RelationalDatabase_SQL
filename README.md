@@ -1,2 +1,2 @@
 
-## **[PDF: Database Specifications](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)**
+## **[PDF: Database Specifications](https://kimberlyhwaldron.github.io/RelationalDatabase_SQL/)**
